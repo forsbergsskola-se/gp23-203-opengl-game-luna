@@ -1,0 +1,1 @@
+C:\Projects\gp23-201-cpp-basics-JonatanLuna22\StringTest\StringTest\x64\Debug\StringTest.vcxproj.CopyComplete
